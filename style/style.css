@@ -142,6 +142,7 @@ h3 {
     transform: rotate(-12deg);
     height: 25%;
   }
+
   .experience {
     margin-right: 0;
   }
@@ -232,25 +233,25 @@ h3 {
     margin: 0.8rem;
   }
   .contact-email {
-    background: url("/images/email.png") no-repeat;
+    background: url("../../style2/images/email.png") no-repeat;
     height: 100px;
     width: 100px;
     background-size: cover;
   }
   .contact-phone {
-    background: url("/images/phone.png") no-repeat;
+    background: url("../../style2/images/phone.png") no-repeat;
     height: 100px;
     width: 100px;
     background-size: cover;
   }
   .contact-github {
-    background: url("/images/github.png") no-repeat;
+    background: url("../../style2/images/github.png") no-repeat;
     height: 100px;
     width: 100px;
     background-size: cover;
   }
   .contact-facebook {
-    background: url("/images/facebook.png") no-repeat;
+    background: url("../../style2/images/facebook.png") no-repeat;
     height: 100px;
     width: 100px;
     background-size: cover;
