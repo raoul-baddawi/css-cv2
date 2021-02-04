@@ -233,25 +233,25 @@ h3 {
     margin: 0.8rem;
   }
   .contact-email {
-    background: url("../../style2/images/email.png") no-repeat;
+    background: url("../../css-cv2/images/email.png") no-repeat;
     height: 100px;
     width: 100px;
     background-size: cover;
   }
   .contact-phone {
-    background: url("../../style2/images/phone.png") no-repeat;
+    background: url("../../css-cv2/images/phone.png") no-repeat;
     height: 100px;
     width: 100px;
     background-size: cover;
   }
   .contact-github {
-    background: url("../../style2/images/github.png") no-repeat;
+    background: url("../../css-cv2/images/github.png") no-repeat;
     height: 100px;
     width: 100px;
     background-size: cover;
   }
   .contact-facebook {
-    background: url("../../style2/images/facebook.png") no-repeat;
+    background: url("../../css-cv2/images/facebook.png") no-repeat;
     height: 100px;
     width: 100px;
     background-size: cover;
